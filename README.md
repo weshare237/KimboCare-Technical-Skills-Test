@@ -16,9 +16,12 @@ This system logs payment information and status changes on a blockchain, providi
 - Smart Contract Development: Solidity
 - Frontend: Next.js, TypeScript, and Tailwind CSS
 
-## Node Version
+## Project Requirements
 
-The project was developed using Node.js version v20.11.0.
+- The project was developed using Node.js version v20.11.0.
+- Metamask chrome extension needs to be installed.
+- Use the following faucet to get test eths: [Ethereum Sepolia Faucet](https://sepoliafaucet.com/)
+- Suitable testnets: Sepolia or Goerli
 
 ## Installation
 
