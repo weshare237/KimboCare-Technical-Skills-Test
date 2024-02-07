@@ -37,7 +37,7 @@ const TransactionDetails = ({ transaction }: Props) => {
       </div>
       <div className={style.etherscanLink}>
         <a
-          href={`https://goerli.etherscan.io/tx/${transaction.txHash}`}
+          href={`https://sepolia.etherscan.io/tx/${transaction.txHash}`}
           target='__blank'
           rel='noreferrer'
           className={style.etherscanLink}
