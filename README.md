@@ -20,12 +20,6 @@ This system logs payment information and status changes on a blockchain, providi
 
 The project was developed using Node.js version v20.11.0.
 
-## Demo Link
-
-View the live demo at [LinkedIn](https://linkedin.com).
-
----
-
 ## Installation
 
 Clone the repository and install the required dependencies:
@@ -35,11 +29,33 @@ git clone git@github.com:weshare237/KimboCare-Technical-Skills-Test.git
 ```
 
 ```bash
-cd blockchain-logging-system
+cd KimboCare-Technical-Skills-Test
+```
+
+### Frontend
+
+```bash
+cd client
 ```
 
 ```bash
 npm install
+```
+
+### Sanity CMS Studio
+
+```bash
+cd studio
+```
+
+```bash
+sanity install
+```
+
+In cas sanity isn't install, use the following command to install it:
+
+```bash
+npm install -g @sanity/cli
 ```
 
 ## Usage
@@ -58,4 +74,4 @@ Pull requests are welcome. Please open an issue first to discuss what you would 
 
 ## License
 
-This project is licensed under the terms of the MIT license.
+This project is unlicensed for now.
