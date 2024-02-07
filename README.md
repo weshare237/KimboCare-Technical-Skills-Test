@@ -31,7 +31,15 @@ View the live demo at [LinkedIn](https://linkedin.com).
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone git@github.com:yourusername/blockchain-logging-system.git cd blockchain-logging-system npm install
+git clone git@github.com:weshare237/KimboCare-Technical-Skills-Test.git
+```
+
+```bash
+cd blockchain-logging-system
+```
+
+```bash
+npm install
 ```
 
 ## Usage
